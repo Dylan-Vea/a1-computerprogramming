@@ -1,5 +1,7 @@
 ## Welcome to My Programming Portfolio
 
+![typing test](https://github.com/Dylan-Vea/a1-computerprogramming/blob/gh-pages/images/Screenshot%202020-08-26%20at%208.01.10%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Dylan-Vea/a1-computerprogramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
