@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/Dylan-Vea/a1-computerprogramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
